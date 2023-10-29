@@ -34,6 +34,7 @@ telegraph
 tenacity
 tgCrypto
 uvloop
+urllib3<2
 xattr
 yt-dlp
 tmdbv3api
